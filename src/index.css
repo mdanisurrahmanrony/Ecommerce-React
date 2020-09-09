@@ -1,0 +1,12 @@
+body {
+    margin: 20px 60px;
+    font-family: "Raleway", sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+}
